@@ -1,0 +1,24 @@
+
+.bg-core-grey {
+  background-color: grey;
+  width: 100%;
+  height: 10%;
+  color: white;
+  font-size:  32px;
+
+}
+
+.slide-icons-wrapper {
+  color: grey;
+}
+
+
+
+.info-button {
+  padding-left: 145px;
+  padding-top: 24px;
+  float:left;
+}
+.info-text {
+  float:left;
+}

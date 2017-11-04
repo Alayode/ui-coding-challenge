@@ -1,3 +1,21 @@
+________________________________________________________________________________________________
+
+Hi Olga,
+
+I read your challenge and I notice that you want to make sure someone can write code and also build a
+decent UI piece without wasting your time. Time Olga is precious I was about to start a project and build out this project but now I also know that if I spend so much time on this I may never get the chance to even speak to you in person if it is not to your liking wasting my time and yours. I can produce a demo that I can share with you in person something that I worked on personally and can easily replicate.
+
+Also I worked on Angular 2  for the last 18months and before that I worked on a Dojo UI project I did not have a professional assignment with react-redux. 
+
+ 
+
+
+
+
+
+
+___________________________________________________________________________________________________
+
 You have 48 hrs to complete the attached challenge. Please return it before 11/4 10:00AM.
 
 Candidates and recruiters are not allowed to share this coding challenge content or description with anyone.
@@ -17,14 +35,6 @@ Good luck !
 
 Olga
 
-Hi Olga,
-
-I read your challenge and I notice that you want to make sure someone can write code and also build a
-decent UI piece without wasting your time. Time Olga is precious I was about to start a project and build out this project but now I also know that if I spend so much time on this I may never get the chance to even speak to you in person if it is not to your liking wasting my time and yours. I can produce a demo that I can share with you in person something that I worked on personally and can easily replicate.
-
-Also I worked on Angular 2  for the last 18months and before that I worked on a Dojo UI project I did not have a professional assignment with react-redux. 
-
- 
 
 # UiCodingChallenge
 

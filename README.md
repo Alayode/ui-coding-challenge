@@ -1,3 +1,24 @@
+You have 48 hrs to complete the attached challenge. Please return it before 11/4 10:00AM.
+
+Candidates and recruiters are not allowed to share this coding challenge content or description with anyone.
+
+Attached is the UI coding challenge, the requirements are:
+
+ 
+
+    Push the coding challenge to Github and name the repo “ui-coding-challenge”
+    All coding challenges must be completed within 48 hours
+    No external libraries should be used (i.e. create a modal from scratch)
+    React/Redux/Webpack/Jest/Enzyme are the tech stack and are permitted.
+
+ Please return the URL to Olga.Violett@baml.com
+
+Good luck !
+
+Olga
+
+ 
+
 # UiCodingChallenge
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
